@@ -11,3 +11,7 @@ The Promise to Develop Ethical Software
 
 4. I swear to release and remove user information at the user's request. Users should be allowed to leave a service or uninstall a product and have all stored personal information on them removed.
 
+
+#### Contributing
+
+I encourage people to get involved and contribute to the Oath. Just fork the repository and submit a pull request.
