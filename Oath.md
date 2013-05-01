@@ -18,3 +18,7 @@ The Promise to Develop Ethical Software
 1. I swear to responsibly disclose any and all software vulnerabilities that come to my attention so that they may be fixed.
 
 2. I swear to not design software for the purpose of exploiting a vulnerability, damaging another computer system or exploiting a user.
+
+### 3. Patents
+
+1. I swear to not become a patent troll and stifle innovation of software by applying for or enforcing patents on algorithms and software features that clearly should not be patented.
