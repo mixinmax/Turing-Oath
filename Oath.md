@@ -1,28 +1,28 @@
 Turing-Oath
 ===========
 
-The Promise to Develop Ethical Software
 
-### 1. Privacy
+* Act with skill and care in all programming work. Maintain up to date skills
+  and assist their development in others.
 
-1. I swear to respect the privacy of the user and secure all personal information in accordance with current standards.
+* Do not claim to have skills you know you have not achieved yet.
 
-2. I swear to not invade the private space of the user by sending spam or exploiting their trust.
+* Take steps to prevent corrupt practices and professional misconduct. Declare
+  conflicts of interest.
 
-3. I swear to be transparent in the information I keep on the user and to allow them to access it at any time.
+* Be alert to the ways in which source code derives from and affects the work of
+  other people, and respect the rights and reputations of others.
 
-4. I swear to release and remove personal user information at their request.
+* Ensure that your work is lawful and justified.
 
-### 2. Security
+* Minimize and justify publically any adverse effect your work may have on
+  people, animals and the natural environment.
 
-1. I swear to responsibly disclose any and all software vulnerabilities that come to my attention so that they may be fixed.
+* Seek to discuss publically the issues that your work raises for
+  society. Listen to the aspirations and concerns of others.
 
-2. I swear to not design software for the purpose of exploiting a vulnerability, damaging another computer system or exploiting a user.
+* Do not knowingly mislead, or allow others to be misled, about programming
+  matters. Present and review source code honestly and accurately, using metrics
+  to guide that review where appropriate.
 
-### 3. Patents
-
-1. I swear to not become a patent troll and stifle innovation of software by applying for or enforcing patents on algorithms and software features that clearly should not be patented.
-
-### 4. Criminal Activity
-
-1. I swear to take no action to aid or abet the perpetration of crimes against humanity or other war crimes.
+(Based on Sir David King's suggested oath for scientists)
