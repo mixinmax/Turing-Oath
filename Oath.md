@@ -22,3 +22,7 @@ The Promise to Develop Ethical Software
 ### 3. Patents
 
 1. I swear to not become a patent troll and stifle innovation of software by applying for or enforcing patents on algorithms and software features that clearly should not be patented.
+
+### 4. Criminal Activity
+
+1. I swear to take no action to aid or abet the perpetration of crimes against humanity or other war crimes.
