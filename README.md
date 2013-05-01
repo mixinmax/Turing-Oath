@@ -19,3 +19,5 @@ Please Contribute
 The Oath should be an accurate representation of the development community and the moral code they uphold. I encourage people to get involved and contribute.
 
 Simply fork the repository and add to a section (or add a whole new paragraph) or open an issue in the issue tracker and it can be discussed.
+
+**Note:** I've received some feedback and some people think that Turing wasn't the best person to name this Oath after. Seeing as this is a socially-driven project, I'm more than open to changing the name to something that better represents the community.
