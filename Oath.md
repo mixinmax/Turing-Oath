@@ -13,8 +13,6 @@ The Promise to Develop Ethical Software
 
 4. I swear to release and remove personal user information at their request.
 
-5. I swear to provide transparency to users regarding activities carried out using their information.
-
 ### 2. Security
 
 1. I swear to responsibly disclose any and all software vulnerabilities that come to my attention so that they may be fixed.
