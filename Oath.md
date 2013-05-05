@@ -26,3 +26,7 @@ The Promise to Develop Ethical Software
 ### 4. Criminal Activity
 
 1. I swear to take no action to aid or abet the perpetration of crimes against humanity or other war crimes.
+
+### 5. Accessibility
+
+1. Wherever possible, I will strive to produce software that does not discriminate against nationality, language, race, sex, ability or political or religious beliefs.
