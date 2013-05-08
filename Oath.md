@@ -5,13 +5,13 @@ The Promise to Develop Ethical Software
 
 ### 1. Privacy
 
-1. I swear to respect the privacy of the user and secure all personal information in accordance with current standards.
+1. I swear to respect the privacy of all of my users and to secure all of their personal information in accordance with current standards.
 
-2. I swear to not invade the private space of the user by sending spam or exploiting their trust.
+2. I swear to not invade the private space of any of my users by sending spam or exploiting their trust.
 
-3. I swear to be transparent in the information I keep on the user and to allow them to access it at any time.
+3. I swear to be transparent about the information I keep on all of my users and to allow them to access their information at any time.
 
-4. I swear to release and remove personal user information at their request.
+4. I swear to release and remove personal user information of any user that requests it.
 
 ### 2. Security
 
